@@ -25,6 +25,7 @@ winget install -e --id AutoHotkey.AutoHotkey --silent;
 winget install -e --id Nilesoft.Shell --silent;
 
 winget install -e --id OBSProject.OBSStudio --silent;
+winget install -e --id Elgato.StreamDeck --silent;
 winget install -e --id Valve.Steam --silent;
 winget install -e --id Overwolf.CurseForge --silent;
 winget install -e --id EpicGames.EpicGamesLauncher --silent;
