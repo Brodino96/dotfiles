@@ -1,1 +1,0 @@
-paru -S chezmoi && chezmoi init --apply Brodino96
