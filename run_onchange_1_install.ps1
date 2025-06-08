@@ -7,6 +7,7 @@ if (!([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]:
 winget uninstall -e --id Microsoft.Teams --silent;
 winget uninstall 9NBLGGH5R558 --silent; # Microsoft To Do
 winget uninstall -e --id Microsoft.OneDrive --silent;
+winget uninstall Copilot --silent;
 
 winget install --exact --id MartiCliment.UniGetUI --source winget --silent;
 powershell -c "irm bun.sh/install.ps1|iex"
