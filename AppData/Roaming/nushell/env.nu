@@ -18,5 +18,3 @@
 # them for future reference.
 
 $env.config.buffer_editor = "code"
-
-zoxide init nushell | save -f ~/.zoxide.nu
