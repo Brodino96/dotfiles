@@ -18,6 +18,7 @@ winget install -e --id OpenJS.NodeJS;
 winget install -e --id junegunn.fzf --silent;
 winget install -e --id ajeetdsouza.zoxide --silent;
 winget install -e --id Starship.Starship --silent;
+winget install -e --id topgrade-rs.topgrade --silent;
 
 winget install -e --id Microsoft.VisualStudioCode --silent;
 winget install -e --id WinSCP.WinSCP --silent;
