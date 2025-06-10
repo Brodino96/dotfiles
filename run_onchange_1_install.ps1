@@ -1,8 +1,8 @@
 # Runs as administrator to install apps
-if (!([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) {
-    Start-Process powershell.exe "-NoProfile -ExecutionPolicy Bypass -File `"$PSCommandPath`"" -Verb RunAs;
-    exit
-}
+# if (!([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) {
+#     Start-Process powershell.exe "-NoProfile -ExecutionPolicy Bypass -File `"$PSCommandPath`"" -Verb RunAs;
+#     exit
+# }
 
 winget uninstall -e --id Microsoft.Teams --silent;
 winget uninstall 9NBLGGH5R558 --silent; # Microsoft To Do
@@ -47,5 +47,7 @@ winget install -e --id Nushell.Nushell --silent;
 winget install -e --id RARLab.WinRAR --silent;
 winget install -e --id 7zip.7zip --silent;
 winget install -e --id Adobe.CreativeCloud --silent;
+
+winget install -e --id Microsoft.PowerToys --silent;
 
 winget update --all --silent;
