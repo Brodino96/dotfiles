@@ -2,6 +2,7 @@
     "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
     "actions": [],
+    "centerOnLaunch": true,
     "copyFormatting": "none",
     "copyOnSelect": false,
     "defaultProfile": "{47302f9c-1ac4-566c-aa3e-8cf29889d6ab}",
@@ -25,6 +26,7 @@
             "keys": "alt+shift+d"
         }
     ],
+    "launchMode": "default",
     "newTabMenu": 
     [
         {
