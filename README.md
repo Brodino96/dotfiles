@@ -15,5 +15,5 @@ chezmoi cd
 
 git checkout windows
 
-chezmoi apply
+sudo chezmoi apply
 ```
