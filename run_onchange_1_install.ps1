@@ -9,7 +9,6 @@ winget uninstall 9NBLGGH5R558 --silent; # Microsoft To Do
 winget uninstall -e --id Microsoft.OneDrive --silent;
 winget uninstall Copilot --silent;
 
-winget install --exact --id MartiCliment.UniGetUI --source winget --silent;
 powershell -c "irm bun.sh/install.ps1|iex"
 winget install -e --id Git.Git --silent;
 winget install -e --id GitHub.cli --silent;
