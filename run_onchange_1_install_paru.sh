@@ -24,6 +24,7 @@ paru -S google-chrome -launcher --noconfirm --needed
 paru -S spotify-launcher --noconfirm --needed
 
 paru -S telegram-desktop --noconfirm --needed
+paru -S signal-desktop --noconfirm --needed
 paru -S discord --noconfirm --needed
 paru -S zapzap --noconfirm --needed
 
