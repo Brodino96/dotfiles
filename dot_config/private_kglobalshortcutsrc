@@ -13,15 +13,17 @@ gpu_screen_recorder_pause_unpause_recording=none,none,Pause/unpause recording
 gpu_screen_recorder_save_replay=none,Alt+F10,Save replay
 gpu_screen_recorder_start_stop_recording=none,Alt+F9,Start/stop recording/replay/streaming
 
+[google-chrome]
+39BF2CF709F4582A6CA976DA6EC541C3-autofill_card=,none,Autofill the last used card for the current website
+39BF2CF709F4582A6CA976DA6EC541C3-autofill_identity=,none,Autofill the last used identity for the current website
+39BF2CF709F4582A6CA976DA6EC541C3-autofill_login=,none,Autofill the last used login for the current website
+39BF2CF709F4582A6CA976DA6EC541C3-generate_password=,none,Generate and copy a new random password to the clipboard
+39BF2CF709F4582A6CA976DA6EC541C3-lock_vault=,none,Lock the vault
+_k_friendly_name=Google Chrome
+
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
 _k_friendly_name=Accessibility
-
-[kcm_touchpad]
-Disable Touchpad=Touchpad Off,Touchpad Off,
-Enable Touchpad=Touchpad On,Touchpad On,
-Toggle Touchpad=Touchpad Toggle\tMeta+Ctrl+Touchpad Toggle\tMeta+Ctrl+Zenkaku Hankaku,Touchpad Toggle\tTouchpad Toggle\tMeta+Ctrl+Touchpad Toggle\tMeta+Ctrl+Zenkaku Hankaku,
-_k_friendly_name=Touchpad
 
 [kmix]
 _k_friendly_name=Audio Volume
@@ -36,7 +38,7 @@ mute=Volume Mute,Volume Mute,Mute
 
 [ksmserver]
 Halt Without Confirmation=none,,Shut Down Without Confirmation
-Lock Session=Meta+L\tScreensaver,Meta+L\tScreensaver,Lock Session
+Lock Session=Screensaver,Meta+L\tScreensaver,Lock Session
 Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Show Logout Screen
 Log Out Without Confirmation=none,,Log Out Without Confirmation
 LogOut=none,,Log Out
@@ -115,14 +117,14 @@ Switch to Screen to the Left=none,,Switch to Screen to the Left
 Switch to Screen to the Right=none,,Switch to Screen to the Right
 Toggle Night Color=none,none,Suspend/Resume Night Light
 Toggle Window Raise/Lower=none,,Toggle Window Raise/Lower
-Walk Through Windows=Alt+Tab,Alt+Tab,Walk Through Windows
-Walk Through Windows (Reverse)=Alt+Shift+Tab,Alt+Shift+Tab,Walk Through Windows (Reverse)
-Walk Through Windows Alternative=none,,Walk Through Windows Alternative
-Walk Through Windows Alternative (Reverse)=none,,Walk Through Windows Alternative (Reverse)
-Walk Through Windows of Current Application=Alt+`,Alt+`,Walk Through Windows of Current Application
-Walk Through Windows of Current Application (Reverse)=Alt+~,Alt+~,Walk Through Windows of Current Application (Reverse)
-Walk Through Windows of Current Application Alternative=none,,Walk Through Windows of Current Application Alternative
-Walk Through Windows of Current Application Alternative (Reverse)=none,,Walk Through Windows of Current Application Alternative (Reverse)
+Walk Through Windows=Alt+Tab,Meta+Tab\tAlt+Tab,Walk Through Windows
+Walk Through Windows (Reverse)=Alt+Shift+Tab,Meta+Shift+Tab\tAlt+Shift+Tab,Walk Through Windows (Reverse)
+Walk Through Windows Alternative=none,none,Walk Through Windows Alternative
+Walk Through Windows Alternative (Reverse)=none,none,Walk Through Windows Alternative (Reverse)
+Walk Through Windows of Current Application=Alt+`,Meta+`\tAlt+`,Walk Through Windows of Current Application
+Walk Through Windows of Current Application (Reverse)=Alt+~,Meta+~\tAlt+~,Walk Through Windows of Current Application (Reverse)
+Walk Through Windows of Current Application Alternative=none,none,Walk Through Windows of Current Application Alternative
+Walk Through Windows of Current Application Alternative (Reverse)=none,none,Walk Through Windows of Current Application Alternative (Reverse)
 Window Above Other Windows=none,,Keep Window Above Others
 Window Below Other Windows=none,,Keep Window Below Others
 Window Close=Alt+F4,Alt+F4,Close Window
