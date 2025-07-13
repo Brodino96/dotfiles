@@ -15,6 +15,7 @@ paru -S starship --noconfirm --needed
 paru -S otf-cascadia-code --noconfirm --needed
 paru -S ttf-cascadia-mono-nerd --noconfirm --needed
 paru -S ntfs-3g --noconfirm --needed
+paru -S btop --noconfirm --needed
 
 paru -S libdbusmenu-glib --noconfirm --needed # vscode dep
 paru -S icu69-bin --noconfirm --needed # vscode dep
@@ -36,4 +37,3 @@ paru -S curseforge --noconfirm --needed
 paru -S heroic-games-launcher-bin --noconfirm --needed
 
 paru -S gpu-screen-recorder-ui --noconfirm --needed
-paru -S amdgpu_top --noconfirm --needed
