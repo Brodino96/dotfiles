@@ -14,11 +14,11 @@ gpu_screen_recorder_save_replay=none,Alt+F10,Save replay
 gpu_screen_recorder_start_stop_recording=none,Alt+F9,Start/stop recording/replay/streaming
 
 [google-chrome]
-39BF2CF709F4582A6CA976DA6EC541C3-autofill_card=,none,Autofill the last used card for the current website
-39BF2CF709F4582A6CA976DA6EC541C3-autofill_identity=,none,Autofill the last used identity for the current website
-39BF2CF709F4582A6CA976DA6EC541C3-autofill_login=,none,Autofill the last used login for the current website
-39BF2CF709F4582A6CA976DA6EC541C3-generate_password=,none,Generate and copy a new random password to the clipboard
-39BF2CF709F4582A6CA976DA6EC541C3-lock_vault=,none,Lock the vault
+39BF2CF709F4582A6CA976DA6EC541C3-autofill_card=none,none,Autofill the last used card for the current website
+39BF2CF709F4582A6CA976DA6EC541C3-autofill_identity=none,none,Autofill the last used identity for the current website
+39BF2CF709F4582A6CA976DA6EC541C3-autofill_login=none,none,Autofill the last used login for the current website
+39BF2CF709F4582A6CA976DA6EC541C3-generate_password=none,none,Generate and copy a new random password to the clipboard
+39BF2CF709F4582A6CA976DA6EC541C3-lock_vault=none,none,Lock the vault
 _k_friendly_name=Google Chrome
 
 [kaccess]
@@ -218,6 +218,14 @@ playmedia=none,,Play media playback
 playpausemedia=Media Play,Media Play,Play/Pause media playback
 previousmedia=Media Previous,Media Previous,Media playback previous
 stopmedia=Media Stop,Media Stop,Stop media playback
+
+[org.wezfurlong.wezterm]
+39BF2CF709F4582A6CA976DA6EC541C3-autofill_card=none,none,Autofill the last used card for the current website
+39BF2CF709F4582A6CA976DA6EC541C3-autofill_identity=none,none,Autofill the last used identity for the current website
+39BF2CF709F4582A6CA976DA6EC541C3-autofill_login=none,none,Autofill the last used login for the current website
+39BF2CF709F4582A6CA976DA6EC541C3-generate_password=none,none,Generate and copy a new random password to the clipboard
+39BF2CF709F4582A6CA976DA6EC541C3-lock_vault=none,none,Lock the vault
+_k_friendly_name=WezTerm
 
 [org_kde_powerdevil]
 Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Decrease Keyboard Brightness
