@@ -7,7 +7,8 @@ browsertabsEnabled=false
 helprunnerEnabled=false
 krunner_appstreamEnabled=false
 krunner_bookmarksrunnerEnabled=false
-krunner_dictionaryEnabled=false
+krunner_charrunnerEnabled=false
+krunner_dictionaryEnabled=true
 krunner_katesessionsEnabled=false
 krunner_killEnabled=false
 krunner_konsoleprofilesEnabled=false
@@ -17,10 +18,11 @@ krunner_plasma-desktopEnabled=false
 krunner_powerdevilEnabled=false
 krunner_recentdocumentsEnabled=false
 krunner_sessionsEnabled=false
+krunner_shellEnabled=false
 krunner_webshortcutsEnabled=false
 org.kde.activities2Enabled=false
-org.kde.datetimeEnabled=false
-windowsEnabled=false
+org.kde.datetimeEnabled=true
+windowsEnabled=true
 
 [Plugins][Favorites]
-plugins=krunner_services,krunner_systemsettings
+plugins=windows,krunner_services,krunner_systemsettings
