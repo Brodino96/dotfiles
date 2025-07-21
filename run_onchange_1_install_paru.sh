@@ -27,7 +27,7 @@ paru -S ntfs-3g --noconfirm --needed
 paru -S telegram-desktop --noconfirm --needed
 paru -S signal-desktop --noconfirm --needed
 paru -S discord --noconfirm --needed
-paru -S zapzap --noconfirm --needed
+paru -S whatsapp-for-linux --noconfirm --needed
 
 # Games
 paru -S steam --noconfirm --needed
