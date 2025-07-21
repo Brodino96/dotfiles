@@ -16,6 +16,7 @@ paru -S ttf-cascadia-mono-nerd --noconfirm --needed
 # Coding
 paru -S rustup --noconfirm --needed
 paru -S nodejs --noconfirm --needed
+paru -S bun --noconfirm --needed
 paru -S git --noconfirm --needed
 paru -S github-cli --noconfirm --needed
 
