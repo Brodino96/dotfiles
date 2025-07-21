@@ -1,0 +1,13 @@
+[TabBox]
+LayoutName=big_icons
+
+[org.kde.kdecoration2]
+NoPlugin=false
+library=org.kde.breeze
+theme=Breeze
+
+[TabBox]
+ActivitiesMode=0
+DesktopMode=0
+HighlightWindows=false
+LayoutName=thumbnail_grid
