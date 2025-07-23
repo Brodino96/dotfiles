@@ -39,10 +39,10 @@ paru -S heroic-games-launcher-bin --noconfirm --needed
 paru -S gpu-screen-recorder-ui --noconfirm --needed
 
 # Tools
-paru -S libdbusmenu-glib --noconfirm --needed # vscode dep
-paru -S icu69-bin --noconfirm --needed # vscode dep
+paru -S libdbusmenu-glib --noconfirm --needed # vscode dependency
+paru -S icu69-bin --noconfirm --needed # vscode dependency
 paru -S visual-studio-code-bin --noconfirm --needed
-paru -S google-chrome --noconfirm --needed
+paru -S firefox --noconfirm --needed
 paru -S spotify-launcher --noconfirm --needed
 paru -S btop --noconfirm --needed
 
