@@ -142,6 +142,7 @@ BrowserApplication=google-chrome.desktop
 ColorSchemeHash=8ff306d9a93379c74540e00506966df24df1798b
 TerminalApplication=wezterm start --cwd .
 TerminalService=org.wezfurlong.wezterm.desktop
+UseSystemBell=true
 
 [Icons]
 Theme=Papirus-Dark
@@ -149,6 +150,26 @@ Theme=Papirus-Dark
 [KDE]
 AnimationDurationFactor=0.25
 LookAndFeelPackage=org.kde.breezedark.desktop
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=140
+View Style=DetailTree
 
 [WM]
 activeBackground=39,44,49
