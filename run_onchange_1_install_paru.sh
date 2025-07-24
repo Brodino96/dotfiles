@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# Updates mirrors
+sudo cachyos-rate-mirrors
+
 # Packages
 paru -S flatpak --noconfirm --needed
 paru -S topgrade --noconfirm --needed
