@@ -25,4 +25,4 @@ org.kde.datetimeEnabled=true
 windowsEnabled=true
 
 [Plugins][Favorites]
-plugins=windows,krunner_services,krunner_systemsettings
+plugins=krunner_services,krunner_systemsettings,windows
