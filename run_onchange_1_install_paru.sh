@@ -50,3 +50,6 @@ paru -S opendeck --noconfirm --needed
 # OS Theme
 paru -S cachyos-emerald-kde-theme-git --noconfirm --needed
 paru -S papirus-icon-theme --noconfirm --needed
+
+# Obs
+paru -S obs-vkcapture --noconfirm --needed
