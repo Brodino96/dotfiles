@@ -45,6 +45,7 @@ paru -S visual-studio-code-bin --noconfirm --needed
 paru -S firefox --noconfirm --needed
 paru -S spotify-launcher --noconfirm --needed
 paru -S btop --noconfirm --needed
+paru -S opendeck --noconfirm --needed
 
 # OS Theme
 paru -S cachyos-emerald-kde-theme-git --noconfirm --needed
