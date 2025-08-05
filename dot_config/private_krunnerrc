@@ -22,6 +22,7 @@ krunner_shellEnabled=false
 krunner_webshortcutsEnabled=false
 org.kde.activities2Enabled=false
 org.kde.datetimeEnabled=true
+vscode_runnerEnabled=false
 windowsEnabled=true
 
 [Plugins][Favorites]

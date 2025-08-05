@@ -20,6 +20,11 @@ gpu_screen_recorder_start_stop_recording=none,Alt+F9,Start/stop recording/replay
 39BF2CF709F4582A6CA976DA6EC541C3-autofill_login=none,none,Autofill the last used login for the current website
 39BF2CF709F4582A6CA976DA6EC541C3-generate_password=none,none,Generate and copy a new random password to the clipboard
 39BF2CF709F4582A6CA976DA6EC541C3-lock_vault=none,none,Lock the vault
+973DB25C7F9C98677E86E962278F05F2-autofill_card=none,none,Autofill the last used card for the current website
+973DB25C7F9C98677E86E962278F05F2-autofill_identity=none,none,Autofill the last used identity for the current website
+973DB25C7F9C98677E86E962278F05F2-autofill_login=none,none,Autofill the last used login for the current website
+973DB25C7F9C98677E86E962278F05F2-generate_password=none,none,Generate and copy a new random password to the clipboard
+973DB25C7F9C98677E86E962278F05F2-lock_vault=none,none,Lock the vault
 _k_friendly_name=Google Chrome
 
 [kaccess]
