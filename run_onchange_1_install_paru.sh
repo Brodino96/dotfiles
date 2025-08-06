@@ -38,6 +38,7 @@ paru -S proton-ge-custom-bin --noconfirm --needed
 paru -S bottles --noconfirm --needed
 paru -S wine-cachyos --noconfirm --needed
 paru -S curseforge --noconfirm --needed
+paru -S modrinth-app-bin --noconfirm --needed
 paru -S heroic-games-launcher-bin --noconfirm --needed
 paru -S gpu-screen-recorder-ui --noconfirm --needed
 
