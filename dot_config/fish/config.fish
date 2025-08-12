@@ -28,3 +28,5 @@ starship init fish | source
 set --export BUN_INSTALL "$HOME/.bun"
 set --export PATH $BUN_INSTALL/bin $PATH
 set --export EDITOR code
+
+fish_add_path /home/brodino/.cargo/bin
