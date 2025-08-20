@@ -14,7 +14,22 @@ gpu_screen_recorder_pause_unpause_recording=none,none,Pause/unpause recording
 gpu_screen_recorder_save_replay=none,Alt+F10,Save replay
 gpu_screen_recorder_start_stop_recording=none,Alt+F9,Start/stop recording/replay/streaming
 
+[com.google.Chrome]
+973DB25C7F9C98677E86E962278F05F2-autofill_card=none,none,Autofill the last used card for the current website
+973DB25C7F9C98677E86E962278F05F2-autofill_identity=none,none,Autofill the last used identity for the current website
+973DB25C7F9C98677E86E962278F05F2-autofill_login=none,none,Autofill the last used login for the current website
+973DB25C7F9C98677E86E962278F05F2-generate_password=none,none,Generate and copy a new random password to the clipboard
+973DB25C7F9C98677E86E962278F05F2-lock_vault=none,none,Lock the vault
+_k_friendly_name=Google Chrome
+
 [google-chrome]
+0FC35C2F4D371B7B9B2D838649C6E6E9-launch-element-picker=none,none,Enter element picker mode
+0FC35C2F4D371B7B9B2D838649C6E6E9-launch-element-zapper=none,none,Enter element zapper mode
+0FC35C2F4D371B7B9B2D838649C6E6E9-launch-logger=none,none,Open the logger
+0FC35C2F4D371B7B9B2D838649C6E6E9-open-dashboard=none,none,Open the dashboard
+0FC35C2F4D371B7B9B2D838649C6E6E9-relax-blocking-mode=none,none,Relax blocking mode
+0FC35C2F4D371B7B9B2D838649C6E6E9-toggle-cosmetic-filtering=none,none,Toggle cosmetic filtering
+0FC35C2F4D371B7B9B2D838649C6E6E9-toggle-javascript=none,none,Toggle JavaScript
 39BF2CF709F4582A6CA976DA6EC541C3-autofill_card=none,none,Autofill the last used card for the current website
 39BF2CF709F4582A6CA976DA6EC541C3-autofill_identity=none,none,Autofill the last used identity for the current website
 39BF2CF709F4582A6CA976DA6EC541C3-autofill_login=none,none,Autofill the last used login for the current website
