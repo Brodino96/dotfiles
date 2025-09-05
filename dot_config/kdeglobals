@@ -133,8 +133,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
-DirSelectDialog Size=820,584
-History Items[$e]=file:///disks/warehouse/Games/SteamLibrary,file:///mnt,file:///disks/warehouse,file:///disks/hdd,file:///disks/vault,file:///disks/locker
+DirSelectDialog Size=960,540
+History Items[$e]=file:///disks/warehouse/bottles,file:///disks/warehouse/Games,file:///disks/warehouse/Games/Cyberpunk 2077,file:///disks/warehouse/Games/SteamLibrary,file:///mnt,file:///disks/warehouse,file:///disks/hdd,file:///disks/vault,file:///disks/locker
 Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 
 [General]
