@@ -323,12 +323,15 @@ toggle do not disturb=none,,Toggle do not disturb
 [services][Obs.desktop]
 _launch=
 
+[services][net.local.rofi.desktop]
+_launch=Meta+Space
+
 [services][org.kde.konsole.desktop]
 _launch=none
 
 [services][org.kde.krunner.desktop]
 RunClipboard=none
-_launch=Meta+Space
+_launch=none
 
 [services][org.kde.spectacle.desktop]
 ActiveWindowScreenShot=Alt+Print
