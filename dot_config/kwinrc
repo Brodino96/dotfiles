@@ -9,7 +9,6 @@ EdgeBarrier=0
 [Plugins]
 shakecursorEnabled=false
 
-
 [Round-Corners]
 ActiveOutlinePalette=15
 ActiveSecondOutlinePalette=15
@@ -18,8 +17,8 @@ InactiveOutlinePalette=15
 InactiveOutlineThickness=2
 InactiveSecondOutlinePalette=15
 InactiveSecondOutlineThickness=0.75
-OutlineColor=146,116,202
-OutlineThickness=2
+OutlineColor=0,170,255
+OutlineThickness=3
 SecondOutlineThickness=0.75
 
 [TabBox]
