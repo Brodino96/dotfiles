@@ -9,6 +9,7 @@ EdgeBarrier=0
 [Plugins]
 shakecursorEnabled=false
 
+
 [Round-Corners]
 ActiveOutlinePalette=15
 ActiveSecondOutlinePalette=15

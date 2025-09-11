@@ -326,6 +326,7 @@ _launch=
 [services][net.local.rofi.desktop]
 _launch=Meta+Space
 
+
 [services][org.kde.konsole.desktop]
 _launch=none
 
