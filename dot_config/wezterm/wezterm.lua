@@ -12,11 +12,18 @@ config.initial_rows = 28
 
 -- or, changing the font size and color scheme.
 config.font_size = 12.5
-config.color_scheme = "Banana Blueberry"
+config.color_scheme = "Tokyonight"
+
+config.color_schemes = {
+    ["Tokyonight"] = {
+        background = "#24283b",
+        foreground = "#FFFFFF"
+    }
+}
 
 config.window_close_confirmation = "NeverPrompt"
 
-config.font = wezterm.font 'Cascadia Mono'
+config.font = wezterm.font "Jetbrains Mono"
 config.hide_tab_bar_if_only_one_tab = true
 
 -- Finally, return the configuration to wezterm:
