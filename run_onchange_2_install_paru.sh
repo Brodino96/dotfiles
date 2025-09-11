@@ -52,6 +52,7 @@ paru -S rofi --noconfirm --needed
 paru -S cachyos-emerald-kde-theme-git --noconfirm --needed
 paru -S papirus-icon-theme --noconfirm --needed
 paru -S kwin-effect-rounded-corners --noconfirm --needed
+paru -S catppuccin-plasma-colorscheme-mocha --noconfirm --needed
 
 # Obs
 paru -S obs-vkcapture --noconfirm --needed
