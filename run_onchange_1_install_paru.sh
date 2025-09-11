@@ -49,6 +49,7 @@ paru -S firefox --noconfirm --needed
 paru -S spotify-launcher --noconfirm --needed
 paru -S btop --noconfirm --needed
 paru -S opendeck --noconfirm --needed
+paru -S rofi --noconfirm --needed
 
 # OS Theme
 paru -S cachyos-emerald-kde-theme-git --noconfirm --needed
