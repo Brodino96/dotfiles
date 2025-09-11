@@ -48,9 +48,10 @@ paru -S btop --noconfirm --needed
 paru -S opendeck --noconfirm --needed
 paru -S rofi --noconfirm --needed
 
-# OS Theme
+# Customization
 paru -S cachyos-emerald-kde-theme-git --noconfirm --needed
 paru -S papirus-icon-theme --noconfirm --needed
+paru -S kwin-effect-rounded-corners --noconfirm --needed
 
 # Obs
 paru -S obs-vkcapture --noconfirm --needed
