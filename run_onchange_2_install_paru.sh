@@ -1,8 +1,5 @@
 #!/bin/sh
 
-# Updates mirrors
-sudo cachyos-rate-mirrors
-
 # Packages
 paru -S flatpak --noconfirm --needed
 paru -S topgrade --noconfirm --needed
@@ -36,10 +33,10 @@ paru -S steam --noconfirm --needed
 paru -S proton-ge-custom-bin --noconfirm --needed
 paru -S bottles --noconfirm --needed
 paru -S wine-cachyos --noconfirm --needed
-paru -S curseforge --noconfirm --needed
-paru -S modrinth-app-bin --noconfirm --needed
 paru -S heroic-games-launcher-bin --noconfirm --needed
-paru -S gpu-screen-recorder-ui --noconfirm --needed
+# Minecraft
+paru -S modrinth-app-bin --noconfirm --needed
+paru -S curseforge --noconfirm --needed
 
 # Tools
 paru -S libdbusmenu-glib --noconfirm --needed # vscode dependency
@@ -50,6 +47,7 @@ paru -S spotify-launcher --noconfirm --needed
 paru -S btop --noconfirm --needed
 paru -S opendeck --noconfirm --needed
 paru -S rofi --noconfirm --needed
+paru -S gpu-screen-recorder-ui --noconfirm --needed
 
 # OS Theme
 paru -S cachyos-emerald-kde-theme-git --noconfirm --needed
