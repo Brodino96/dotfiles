@@ -120,7 +120,7 @@ ForegroundVisited=203, 166, 247
 
 [DirSelect Dialog]
 DirSelectDialog Size=820,584
-History Items[$e]=file:$HOME/Pictures/wallpapers,file:///disks/locker/Video/recordings/linux,file:///disks/warehouse/Games,file:$HOME/Desktop,file:///disks/warehouse/bottles,file:///disks/warehouse/Games/Cyberpunk 2077,file:///disks/warehouse/Games/SteamLibrary,file:///mnt,file:///disks/warehouse,file:///disks/hdd,file:///disks/vault,file:///disks/locker
+History Items[$e]=file:///disks/warehouse/Games,file:$HOME/Pictures/wallpapers,file:///disks/locker/Video/recordings/linux,file:$HOME/Desktop,file:///disks/warehouse/bottles,file:///disks/warehouse/Games/Cyberpunk 2077,file:///disks/warehouse/Games/SteamLibrary,file:///mnt,file:///disks/warehouse,file:///disks/hdd,file:///disks/vault,file:///disks/locker
 Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 
 [General]
@@ -140,11 +140,10 @@ LookAndFeelPackage=org.kde.breezedark.desktop
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true
-Breadcrumb Navigation=true
+Breadcrumb Navigation=false
 Decoration position=2
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
-Show Bookmarks=false
 Show Full Path=false
 Show Inline Previews=true
 Show Preview=false
