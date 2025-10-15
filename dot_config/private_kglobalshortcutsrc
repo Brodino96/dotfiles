@@ -15,11 +15,21 @@ gpu_screen_recorder_save_replay=none,Alt+F10,Save replay
 gpu_screen_recorder_start_stop_recording=none,Alt+F9,Start/stop recording/replay/streaming
 
 [com.google.Chrome]
+7ECDE045DCA2738ED326C6EC9B3B6B3D-autofill_card=none,none,Autofill the last used card for the current website
+7ECDE045DCA2738ED326C6EC9B3B6B3D-autofill_identity=none,none,Autofill the last used identity for the current website
+7ECDE045DCA2738ED326C6EC9B3B6B3D-autofill_login=none,none,Autofill the last used login for the current website
+7ECDE045DCA2738ED326C6EC9B3B6B3D-generate_password=none,none,Generate and copy a new random password to the clipboard
+7ECDE045DCA2738ED326C6EC9B3B6B3D-lock_vault=none,none,Lock the vault
 973DB25C7F9C98677E86E962278F05F2-autofill_card=none,none,Autofill the last used card for the current website
 973DB25C7F9C98677E86E962278F05F2-autofill_identity=none,none,Autofill the last used identity for the current website
 973DB25C7F9C98677E86E962278F05F2-autofill_login=none,none,Autofill the last used login for the current website
 973DB25C7F9C98677E86E962278F05F2-generate_password=none,none,Generate and copy a new random password to the clipboard
 973DB25C7F9C98677E86E962278F05F2-lock_vault=none,none,Lock the vault
+B54CDF8CDDB1713A9833C29A1223DE31-autofill_card=none,none,Autofill the last used card for the current website
+B54CDF8CDDB1713A9833C29A1223DE31-autofill_identity=none,none,Autofill the last used identity for the current website
+B54CDF8CDDB1713A9833C29A1223DE31-autofill_login=none,none,Autofill the last used login for the current website
+B54CDF8CDDB1713A9833C29A1223DE31-generate_password=none,none,Generate and copy a new random password to the clipboard
+B54CDF8CDDB1713A9833C29A1223DE31-lock_vault=none,none,Lock the vault
 _k_friendly_name=Google Chrome
 
 [google-chrome]
