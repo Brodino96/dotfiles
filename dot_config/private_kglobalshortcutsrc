@@ -1,11 +1,12 @@
 [ActivityManager]
 _k_friendly_name=Activity Manager
 switch-to-activity-b2491c84-ece1-4211-9b08-28b3cdb1c2f7=none,none,Switch to activity "Default"
+switch-to-activity-c12a5efe-1022-4078-bea3-470202ffebd5=none,none,Switch to activity "Default"
 switch-to-activity-d005a0c9-0261-45a6-bd78-506b68497896=none,none,Switch to activity "Default"
 
 [KDE Keyboard Layout Switcher]
-Switch to Last-Used Keyboard Layout=Meta+Alt+L,Meta+Alt+L,Switch to Last-Used Keyboard Layout
-Switch to Next Keyboard Layout=Meta+Alt+K,Meta+Alt+K,Switch to Next Keyboard Layout
+Switch to Last-Used Keyboard Layout=Meta+Alt+L,Meta+Alt+L,
+Switch to Next Keyboard Layout=Meta+Alt+K,Meta+Alt+K,
 _k_friendly_name=Keyboard Layout Switcher
 
 [com.dec05eba.gpu_screen_recorder]
@@ -15,6 +16,16 @@ gpu_screen_recorder_save_replay=none,Alt+F10,Save replay
 gpu_screen_recorder_start_stop_recording=none,Alt+F9,Start/stop recording/replay/streaming
 
 [com.google.Chrome]
+0149092D9BAA9FE7141B8C1A79043640-autofill_card=none,none,Autofill the last used card for the current website
+0149092D9BAA9FE7141B8C1A79043640-autofill_identity=none,none,Autofill the last used identity for the current website
+0149092D9BAA9FE7141B8C1A79043640-autofill_login=none,none,Autofill the last used login for the current website
+0149092D9BAA9FE7141B8C1A79043640-generate_password=none,none,Generate and copy a new random password to the clipboard
+0149092D9BAA9FE7141B8C1A79043640-lock_vault=none,none,Lock the vault
+77BA2B740ACDCD2468C3D38D093F03CF-autofill_card=none,none,Autofill the last used card for the current website
+77BA2B740ACDCD2468C3D38D093F03CF-autofill_identity=none,none,Autofill the last used identity for the current website
+77BA2B740ACDCD2468C3D38D093F03CF-autofill_login=none,none,Autofill the last used login for the current website
+77BA2B740ACDCD2468C3D38D093F03CF-generate_password=none,none,Generate and copy a new random password to the clipboard
+77BA2B740ACDCD2468C3D38D093F03CF-lock_vault=none,none,Lock the vault
 7ECDE045DCA2738ED326C6EC9B3B6B3D-autofill_card=none,none,Autofill the last used card for the current website
 7ECDE045DCA2738ED326C6EC9B3B6B3D-autofill_identity=none,none,Autofill the last used identity for the current website
 7ECDE045DCA2738ED326C6EC9B3B6B3D-autofill_login=none,none,Autofill the last used login for the current website
@@ -183,12 +194,12 @@ Switch to Screen to the Left=none,,Switch to Screen to the Left
 Switch to Screen to the Right=none,,Switch to Screen to the Right
 Toggle Night Color=none,none,Suspend/Resume Night Light
 Toggle Window Raise/Lower=none,,Toggle Window Raise/Lower
-Walk Through Windows=Alt+Tab,Meta+Tab\tAlt+Tab,Walk Through Windows
-Walk Through Windows (Reverse)=Alt+Shift+Tab,Meta+Shift+Tab\tAlt+Shift+Tab,Walk Through Windows (Reverse)
+Walk Through Windows=Meta+Tab\tAlt+Tab,Meta+Tab\tAlt+Tab,Walk Through Windows
+Walk Through Windows (Reverse)=Meta+Shift+Tab\tAlt+Shift+Tab,Meta+Shift+Tab\tAlt+Shift+Tab,Walk Through Windows (Reverse)
 Walk Through Windows Alternative=none,none,Walk Through Windows Alternative
 Walk Through Windows Alternative (Reverse)=none,none,Walk Through Windows Alternative (Reverse)
-Walk Through Windows of Current Application=Alt+`,Meta+`\tAlt+`,Walk Through Windows of Current Application
-Walk Through Windows of Current Application (Reverse)=Alt+~,Meta+~\tAlt+~,Walk Through Windows of Current Application (Reverse)
+Walk Through Windows of Current Application=Meta+`\tAlt+`,Meta+`\tAlt+`,Walk Through Windows of Current Application
+Walk Through Windows of Current Application (Reverse)=Meta+~\tAlt+~,Meta+~\tAlt+~,Walk Through Windows of Current Application (Reverse)
 Walk Through Windows of Current Application Alternative=none,none,Walk Through Windows of Current Application Alternative
 Walk Through Windows of Current Application Alternative (Reverse)=none,none,Walk Through Windows of Current Application Alternative (Reverse)
 Window Above Other Windows=none,,Keep Window Above Others
@@ -218,7 +229,7 @@ Window One Screen Down=none,,Move Window One Screen Down
 Window One Screen Up=none,,Move Window One Screen Up
 Window One Screen to the Left=none,,Move Window One Screen to the Left
 Window One Screen to the Right=none,,Move Window One Screen to the Right
-Window Operations Menu=Alt+F3,Alt+F3,Window Operations Menu
+Window Operations Menu=Alt+F3,Alt+F3,Window Menu
 Window Pack Down=none,,Move Window Down
 Window Pack Left=none,,Move Window Left
 Window Pack Right=none,,Move Window Right
@@ -233,7 +244,7 @@ Window Quick Tile Top Left=none,,Quick Tile Window to the Top Left
 Window Quick Tile Top Right=none,,Quick Tile Window to the Top Right
 Window Raise=none,,Raise Window
 Window Resize=none,,Resize Window
-Window Shade=none,,Shade Window
+Window Shade=none,none,Shade Window
 Window Shrink Horizontal=none,,Shrink Window Horizontally
 Window Shrink Vertical=none,,Shrink Window Vertically
 Window to Desktop 1=none,,Window to Desktop 1
@@ -335,6 +346,7 @@ _k_friendly_name=Power Management
 powerProfile=Battery\tMeta+B,Battery\tMeta+B,Switch Power Profile
 
 [plasmashell]
+Slideshow Wallpaper Next Image=none,,Next Wallpaper Image
 _k_friendly_name=plasmashell
 activate application launcher=Meta\tAlt+F1,Meta\tAlt+F1,Activate Application Launcher
 activate task manager entry 1=Meta+1,Meta+1,Activate Task Manager Entry 1
