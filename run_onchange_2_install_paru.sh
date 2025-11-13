@@ -48,6 +48,10 @@ paru -S btop --noconfirm --needed
 paru -S opendeck --noconfirm --needed
 paru -S rofi --noconfirm --needed
 paru -S google-chrome --noconfirm --needed
+# Video
+paru -S vlc --noconfirm --needed
+paru -S vlc-plugins-all --noconfirm --needed
+# Audio
 paru -S easyeffects --noconfirm --needed
 paru -S calf --noconfirm --needed
 paru -S lsp-plugins-lv2 --noconfirm --needed
