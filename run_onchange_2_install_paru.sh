@@ -58,7 +58,6 @@ paru -S yelp --noconfirm --needed
 # Customization
 paru -S cachyos-emerald-kde-theme-git --noconfirm --needed
 paru -S papirus-icon-theme --noconfirm --needed
-paru -S kwin-effect-rounded-corners --noconfirm --needed
 paru -S catppuccin-plasma-colorscheme-mocha --noconfirm --needed
 paru -S btop-theme-catppuccin --noconfirm --needed
 
