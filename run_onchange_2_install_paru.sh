@@ -47,6 +47,7 @@ paru -S spotify-launcher --noconfirm --needed
 paru -S btop --noconfirm --needed
 paru -S opendeck --noconfirm --needed
 paru -S rofi --noconfirm --needed
+paru -S google-chrome --noconfirm --needed
 
 # Customization
 paru -S cachyos-emerald-kde-theme-git --noconfirm --needed
