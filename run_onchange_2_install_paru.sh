@@ -48,6 +48,12 @@ paru -S btop --noconfirm --needed
 paru -S opendeck --noconfirm --needed
 paru -S rofi --noconfirm --needed
 paru -S google-chrome --noconfirm --needed
+paru -S easyeffects --noconfirm --needed
+paru -S calf --noconfirm --needed
+paru -S lsp-plugins-lv2 --noconfirm --needed
+paru -S zam-plugins-lv2 --noconfirm --needed
+paru -S mda.lv2 --noconfirm --needed
+paru -S yelp --noconfirm --needed
 
 # Customization
 paru -S cachyos-emerald-kde-theme-git --noconfirm --needed
