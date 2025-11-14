@@ -71,3 +71,4 @@ paru -S btop-theme-catppuccin --noconfirm --needed
 # Obs
 paru -S obs-studio-tytan652 --noconfirm --needed
 paru -S obs-vkcapture --noconfirm --needed
+paru -S obs-pipewire-audio-capture --noconfirm --needed
