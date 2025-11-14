@@ -44,6 +44,7 @@ paru -S curseforge --noconfirm --needed
 
 # Tools
 paru -S spotify-launcher --noconfirm --needed
+paru -S rocm-smi-lib --noconfirm --needed
 paru -S btop --noconfirm --needed
 paru -S opendeck --noconfirm --needed
 paru -S rofi --noconfirm --needed
