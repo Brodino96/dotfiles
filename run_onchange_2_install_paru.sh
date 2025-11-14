@@ -22,6 +22,8 @@ paru -S nodejs --noconfirm --needed
 paru -S bun --noconfirm --needed
 paru -S git --noconfirm --needed
 paru -S github-cli --noconfirm --needed
+paru -S docker --noconfirm --needed
+paru -S docker-compose --noconfirm --needed
 
 # WindowsFS
 paru -S ntfs-3g --noconfirm --needed
