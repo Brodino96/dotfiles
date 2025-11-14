@@ -69,4 +69,5 @@ paru -S catppuccin-plasma-colorscheme-mocha --noconfirm --needed
 paru -S btop-theme-catppuccin --noconfirm --needed
 
 # Obs
+paru -S obs-studio-tytan652 --noconfirm --needed
 paru -S obs-vkcapture --noconfirm --needed
