@@ -1,7 +1,6 @@
 #!/bin/sh
 
 # Package managment
-paru -S flatpak --noconfirm --needed
 paru -S topgrade --noconfirm --needed
 
 # Terminal
@@ -70,6 +69,5 @@ paru -S catppuccin-plasma-colorscheme-mocha --noconfirm --needed
 paru -S btop-theme-catppuccin --noconfirm --needed
 
 # Obs
-paru -S obs-studio-tytan652 --noconfirm --needed
 paru -S obs-vkcapture --noconfirm --needed
 paru -S obs-pipewire-audio-capture --noconfirm --needed
