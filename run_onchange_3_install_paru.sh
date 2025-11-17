@@ -67,7 +67,3 @@ paru -S cachyos-emerald-kde-theme-git --noconfirm --needed
 paru -S papirus-icon-theme --noconfirm --needed
 paru -S catppuccin-plasma-colorscheme-mocha --noconfirm --needed
 paru -S btop-theme-catppuccin --noconfirm --needed
-
-# Obs
-paru -S obs-vkcapture --noconfirm --needed
-paru -S obs-pipewire-audio-capture --noconfirm --needed
