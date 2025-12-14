@@ -17,6 +17,7 @@ paru -S libdbusmenu-glib --noconfirm --needed # vscode dependency
 paru -S icu69-bin --noconfirm --needed # vscode dependency
 paru -S visual-studio-code-bin --noconfirm --needed
 paru -S rustup --noconfirm --needed
+paru -S sccache --noconfirm --needed
 paru -S nodejs --noconfirm --needed
 paru -S bun --noconfirm --needed
 paru -S git --noconfirm --needed
