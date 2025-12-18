@@ -3,7 +3,6 @@ source /usr/share/cachyos-fish-config/cachyos-config.fish
 function fish_greeting
 end
 
-
 # overwrite greeting
 # potentially disabling fastfetch
 #function fish_greeting
@@ -30,3 +29,8 @@ set --export PATH $BUN_INSTALL/bin $PATH
 set --export EDITOR code
 
 fish_add_path /home/brodino/.cargo/bin
+
+# Binds
+fzf --fish | source
+bind --erase \ct  # Remove Ctrl+T
+bind \cf fzf-file-widget  # Alt+T for file search
