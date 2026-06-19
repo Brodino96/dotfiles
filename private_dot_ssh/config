@@ -1,0 +1,11 @@
+Host aur.archlinux.org
+  IdentityFile ~/.ssh/aur
+  User aur
+
+Host elysiumcraft
+  HostName ssh.elysiumcraft.it
+  ProxyCommand cloudflared access ssh --hostname ssh.elysiumcraft.it
+
+Host gamebrosting
+  HostName 192.168.1.155
+  Port 2666
