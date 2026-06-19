@@ -30,6 +30,8 @@ set --export EDITOR code
 # Distrobox
 set --export DBX_CONTAINER_MANAGER podman
 
+set --export SSH_AUTH_SOCK /home/brodino/.bitwarden-ssh-agent.sock
+
 fish_add_path /home/brodino/.cargo/bin
 
 # Binds
