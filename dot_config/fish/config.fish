@@ -33,8 +33,3 @@ set --export DBX_CONTAINER_MANAGER podman
 set --export SSH_AUTH_SOCK /home/brodino/.bitwarden-ssh-agent.sock
 
 fish_add_path /home/brodino/.cargo/bin
-
-# Binds
-fzf --fish | source
-bind --erase \ct  # Remove Ctrl+T
-bind \cf fzf-file-widget  # Alt+T for file search
