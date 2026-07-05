@@ -30,7 +30,6 @@ paru -S ntfs-3g --noconfirm --needed
 
 # Chats
 paru -S telegram-desktop --noconfirm --needed
-paru -S signal-desktop --noconfirm --needed
 paru -S discord --noconfirm --needed
 
 # Games
