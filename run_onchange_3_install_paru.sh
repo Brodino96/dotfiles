@@ -48,7 +48,7 @@ paru -S curseforge --noconfirm --needed
 paru -S spotify-launcher --noconfirm --needed
 paru -S rocm-smi-lib --noconfirm --needed
 paru -S btop --noconfirm --needed
-paru -S opendeck --noconfirm --needed
+paru -S companion --noconfirm --needed
 paru -S vicinae-bin --noconfirm --needed
 paru -S google-chrome --noconfirm --needed
 paru -S rnote --noconfirm --needed
