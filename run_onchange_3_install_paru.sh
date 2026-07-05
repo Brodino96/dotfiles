@@ -52,6 +52,9 @@ paru -S opendeck --noconfirm --needed
 paru -S vicinae-bin --noconfirm --needed
 paru -S google-chrome --noconfirm --needed
 paru -S rnote --noconfirm --needed
+paru -S obs-studio-browser --noconfirm --needed
+paru -S obs-vkcapture --noconfirm --needed
+paru -S obs-pipewire-audio-capture --noconfirm --needed
 # Video
 paru -S vlc --noconfirm --needed
 paru -S vlc-plugins-all --noconfirm --needed
