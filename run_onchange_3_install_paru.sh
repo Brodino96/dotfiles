@@ -39,7 +39,7 @@ paru -S wine-cachyos --noconfirm --needed
 paru -S heroic-games-launcher-bin --noconfirm --needed
 paru -S gpu-screen-recorder-ui --noconfirm --needed
 # Minecraft
-paru -S modrinth-app-bin --noconfirm --needed
+paru -S modrinth-app --noconfirm --needed
 paru -S curseforge --noconfirm --needed
 
 # Tools
