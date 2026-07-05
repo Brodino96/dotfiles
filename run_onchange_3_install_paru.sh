@@ -59,6 +59,7 @@ paru -S vlc --noconfirm --needed
 paru -S vlc-plugins-all --noconfirm --needed
 # Audio
 paru -S easyeffects --noconfirm --needed
+paru -S crosspipe --noconfirm --needed
 paru -S calf --noconfirm --needed
 paru -S lsp-plugins-lv2 --noconfirm --needed
 paru -S zam-plugins-lv2 --noconfirm --needed
