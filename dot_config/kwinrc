@@ -8,8 +8,10 @@ EdgeBarrier=0
 
 [Plugins]
 krohnkiteEnabled=false
+kwin_effect_plasmazonesEnabled=true
 mousetilerEnabled=false
 shakecursorEnabled=false
+window-resizerEnabled=true
 
 [Round-Corners]
 ActiveOutlinePalette=15

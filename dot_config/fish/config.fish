@@ -33,3 +33,7 @@ set --export DBX_CONTAINER_MANAGER podman
 set --export SSH_AUTH_SOCK /home/brodino/.bitwarden-ssh-agent.sock
 
 fish_add_path /home/brodino/.cargo/bin
+# Added by LM Studio CLI (lms)
+set -gx PATH $PATH /home/brodino/.lmstudio/bin
+# End of LM Studio CLI section
+
